@@ -1,2 +1,2 @@
-# Terraform-Based_AWS_Infrastructure_Automation-
+# Terraform-Based_AWS_Infrastructure_Automation
 Terraform-Based_AWS_Infrastructure_Automation 
